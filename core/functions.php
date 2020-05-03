@@ -228,7 +228,8 @@
             echo "CPU load not estimateable (maybe too old Windows or missing rights at Linux or Windows)";
         }
         else {
-            echo "$cpuLoad%";
+            $cpuLoadFormat = number_format($cpuLoad, 0);
+            echo "$cpuLoadFormat%";
         }
     }
 
