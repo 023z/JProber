@@ -1,6 +1,8 @@
 # JProber
 A probe tool written in PHP7. It can show your server information and readable easily.
 
+![preview](https://raw.githubusercontent.com/janpabisiak/JProber/master/assets/img.PNG)
+
 ### Current Version:
 v1.0 (First Release)
 
