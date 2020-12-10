@@ -4,7 +4,7 @@ A probe tool written in PHP7. It can show your server information and readable e
 ![preview](https://raw.githubusercontent.com/janpabisiak/JProber/master/assets/img.PNG)
 
 ### Current Version:
-v2.0 (First Release)
+v2.0
 
 ### Features:
 ##### Server Info
